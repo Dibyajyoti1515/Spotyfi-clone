@@ -1,2 +1,2 @@
 # Spotyfi-clone
-It is clone Spotyfi using HTML CSS j=Javascript
+It is clone Spotyfi using HTML CSS Javascript
